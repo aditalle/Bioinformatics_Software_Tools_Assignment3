@@ -1,3 +1,4 @@
+####The script was originally written by Rui Huang and I, Aditya Nikhil Alleear, was resposible for editting his script.  
 library(tidyverse)
 library(rentrez)
 library(Biostrings)
